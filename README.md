@@ -33,7 +33,7 @@ Spaceship-Titanic/
 │   ├── model_evaluation.py     # Script for model evaluation
 │   └── predict.py              # Script for making predictions
 │
-├── README.md                   # You are here!
+├── README.md                   # (https://github.com/mrchandrayee/Spaceship-Titanic/blob/main/README.md)
 └── requirements.txt            # Python dependencies
 ```
 
